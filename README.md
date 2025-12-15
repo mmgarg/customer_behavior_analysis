@@ -49,8 +49,8 @@ To replicate and explore this project locally, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-    cd customer-trends-data-analysis-SQL-Python-PowerBI
+    git clone https://github.com/mmgarg/customer_behavior_analysis.git
+    cd customer_behavior_analysis
     ```
 2.  **Execute Python Script:**
       * Open and run the steps in `Customer_Shopping_Behavior_Analysis.ipynb`.
@@ -62,5 +62,3 @@ To replicate and explore this project locally, follow these steps:
 4.  **Visualize Results:**
       * Open `customer_behavior_dashboard.pbix` in Power BI.
       * Update the data source connection to link to your local PostgreSQL database.
-
------
