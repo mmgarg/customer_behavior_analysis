@@ -1,8 +1,9 @@
 # 📈 Customer Behavior Analysis: An End-to-End Analytics Workflow
 
 The live, interactive dashboard can be viewed here:
-➡️ **[Dashboard Link]([PASTE_YOUR_FULL_DASHBOARD_URL_HERE](https://app.powerbi.com/view?r=eyJrIjoiODAwMmRiNWItYjZkMi00ODMyLWFmMDEtMDM3NzNiYTlmY2ZmIiwidCI6IjEzMjc0YTYzLTYzNDEtNDQ3Yi1iNTM0LTdkNzRhYWM2MTc5MSJ9))**
+➡️ **[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODAwMmRiNWItYjZkMi00ODMyLWFmMDEtMDM3NzNiYTlmY2ZmIiwidCI6IjEzMjc0YTYzLTYzNDEtNDQ3Yi1iNTM0LTdkNzRhYWM2MTc5MSJ9)**
 
+----
 This repository showcases a complete, industry-standard data analytics project designed to reflect the real-world responsibilities of a professional data analyst. The workflow covers the full project lifecycle, from raw data ingestion and preparation to advanced modeling, insight generation, and executive reporting.
 
 This project is a strong demonstration of proficiency across the modern analytical stack: **Python**, **SQL (PostgreSQL)**, and **Power BI**.
